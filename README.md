@@ -3,12 +3,12 @@ A short list of tutorial solutions to the projects found [here](https://www.redd
 
 Written in Python 3.6.4
 
-I have not covered any 'setting up' or infrastructure here, but before you start these you'll need a python interpretter of some description, and to have downloaded/cloned the files from this repository.
+I have not covered any 'setting up' or infrastructure here, but before you start these you'll need a python interpretter of some description, and to have downloaded/cloned the files from this repository. Learning Git will do you a world of good as a proggrammer though, so I suggest at least getting started by `git clone`ing this repo if you can manage it.
 
 The very basics of reading Python code are this:
 
 ```Python
-# Any line preceded by an octothorp is a comments
+# Any line preceded by an octothorp is a comment
 """
 As are any lines surrounded by triple-double-quotes
 """
