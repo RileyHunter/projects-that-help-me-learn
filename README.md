@@ -17,6 +17,6 @@ while True:
 	print("<-- Make sure to respect whitespacing in Python")
 ```
 
-I've written some basic instructions on the process of solving each problem in the source code itself. The comments will start off heavy, and then get lighter as we go on and I get more bored of typing. If you have trouble following along, try to modify some of the previous exercises from you got stuck, to make sure the knowledge is nice and general and not over-fit to that particular solution.
+I've written some basic instructions on the process of solving each problem in the source code itself. The comments will start off heavy, and then get lighter as we go on and I get more bored of typing. If you have trouble following along, try to modify some of the previous exercises from where you got stuck, to make sure the knowledge is nice and general and not over-fit to that particular solution.
 
 Finally, I'm a human being and make mistakes, and am definitely not the slipperiest Pythoneer in the universe, so feel free to contact me [here](https://www.reddit.com/u/spudmix/) if you have any complaints or questions.
